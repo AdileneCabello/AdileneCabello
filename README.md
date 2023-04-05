@@ -17,8 +17,8 @@
 |10:00-12:00|Campaña recuperacion 2023    |Campaña recuperacion 2023    |Campaña recuperacion 2023    |Campaña recuperacion 2023    |Campaña recuperacion 2023    |
 |12:00-1:00 |Comida                       |Migraciones FTTH             |Comida                       |Campaña Wifi Basico          |Comida                       | 
 |1:00-3:00  |Contactación clientes rezago |Comida                       |Migraciones FTTH             |Comida                       |Migraciones FTTH             |
-|3:00-4:30  |Actualizacion CFDI           |Contactación clientes rezago |Actualizacion CFDI           |Seguimiento rezago           |Actualizacion CFDI           |
-|4:30-5:30  |Administrativos              |Administrativos              |Administrativos              |Administrativos              |Administrativos              |
+|3:00-4:00  |Actualizacion CFDI           |Contactación clientes rezago |Actualizacion CFDI           |Seguimiento rezago           |Actualizacion CFDI           |
+|4:00-5:00  |Administrativos              |Administrativos              |Administrativos              |Administrativos              |Administrativos              |
 
 
 <!--
