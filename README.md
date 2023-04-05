@@ -13,10 +13,10 @@
 
 | Horario 	|Lunes                        |Martes                       |Miercoles                    |Jueves                       |Viernes                      |
 |----------	|:---------------------------:|:---------------------------:|:---------------------------:|:---------------------------:|:---------------------------:|
-|8:30-10:30 |Campaña recuperacion 2023    |Campaña Wifi Basico          |Campaña recuperacion 2023    |Campaña Wifi Basico          |Campaña recuperacion 2023    |
-|10:30-1:00 |Campaña Wifi Basico          |Campaña recuperacion 2023    |Campaña Wifi Basico          |Campaña recuperacion 2023    |Campaña Wifi Basico          |
-|1:00-2:00  |Comida                       |Comida                       |Comida                       |Comida                       |Comida                       | 
-|2:00-3:00  |Contactación clientes rezago |Actualizacion CFDI           |Migraciones FTTH             |Actualizacion CFDI           |Migraciones FTTH             |
+|8:00-10:00 |Campaña Wifi Basico          |Campaña Wifi Basico          |Campaña Wifi Basico          |Migraciones FTTH             |Campaña Wifi Basico          |
+|10:00-12:00|Campaña recuperacion 2023    |Campaña recuperacion 2023    |Campaña recuperacion 2023    |Campaña recuperacion 2023    |Campaña recuperacion 2023    |
+|12:00-1:00 |Comida                       |Migraciones FTTH             |Comida                       |Campaña Wifi Basico          |Comida                       | 
+|1:00-3:00  |Contactación clientes rezago |Comida                       |Migraciones FTTH             |Comida                       |Migraciones FTTH             |
 |3:00-4:30  |Actualizacion CFDI           |Contactación clientes rezago |Actualizacion CFDI           |Seguimiento rezago           |Actualizacion CFDI           |
 |4:30-5:30  |Administrativos              |Administrativos              |Administrativos              |Administrativos              |Administrativos              |
 
